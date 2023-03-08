@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000640070495",
+    "project_id": "lab3realtime",
+    "storage_bucket": "lab3realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000640070495:android:a7f21fabf943ec9e37ecea",
+        "android_client_info": {
+          "package_name": "mahmoud.naji.lab3activitycomputing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000640070495-2olohad83b42efm44nv6jgvqi59ood91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDb4AHuBrTz-l6aL0wq8OYfMF8OSmh1uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000640070495-2olohad83b42efm44nv6jgvqi59ood91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
